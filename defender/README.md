@@ -17,7 +17,7 @@
 ## <a name='overview'></a>Overview
 
 ### <a name='challenge-dates'></a>Challenge dates
-Jun 15 – Jul 23, 2020 AoE (AoE)
+Jun 15 – Jul 23, 2021 AoE (AoE)
 
 ### <a name='rules-/-terms'></a>Rules / Terms
 [https://mlsec.io/tos](https://mlsec.io/tos)
@@ -83,4 +83,4 @@ A sure way to submit a valid solution is to modify the example Python code and D
 For additional questions, the following resources are available:
 * [Frequently Asked Questions](FAQ.md) markdown file with solutions to common problems
 * [Join the Slack channel](https://join.slack.com/t/evademalwareml/shared_invite/zt-9birv1qf-KJFEiyLLRVtrsNDuyA0clA) to interact with other contestants
-* [Submit an issue](https://github.com/Azure/2020-machine-learning-security-evasion-competition/issues) for issues relating to the sample code
+* [Submit an issue](https://github.com/Azure/2021-machine-learning-security-evasion-competition/issues) for issues relating to the sample code
