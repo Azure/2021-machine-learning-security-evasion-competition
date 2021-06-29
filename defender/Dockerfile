@@ -15,7 +15,7 @@ ENV PATH="/opt/venv/bin:$PATH"
 # copy and install python requirements + ember from github
 COPY docker-requirements.txt .
 RUN pip install --no-cache-dir -r docker-requirements.txt \
- && pip install --no-cache-dir git+https://github.com/endgameinc/ember.git
+ && pip install --no-cache-dir git+https://github.com/elastic/ember.git
 
 #############################
 # REBASE & DEPLOY CODE
