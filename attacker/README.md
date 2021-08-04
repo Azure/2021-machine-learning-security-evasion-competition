@@ -7,6 +7,7 @@
     * [Anti-malware evasion track submission requirements](#anti-malware-evasion-track-submission-requirements)
     * [Anti-phishing evasion track submission requirements](#anti-phishing-evasion-track-submission-requirements)
 * [Sample Solution](#sample-solution)
+    * [Getting started with Counterfit](https://github.com/Azure/counterfit/blob/mlsecevasion/2021/docs/getting_started.md)
 * [Resources](#resources)
 
 <!-- vscode-markdown-toc-config
@@ -41,10 +42,15 @@ A valid antiphishing evasion submission consists of the following:
 3. partial uploads are okay, and can be used to "update" or "complete" a solution
 4. uploads are rate limited; only infrequent uploads are allowed
 
-## <a name='sample-solution'></a>Sample Solution
-We encourage solutions that extend Microsoft Counterfit. A partial solution is included in the [mlsecevasion/2021 branch](https://github.com/Azure/counterfit/tree/mlsecevasion/2021).
+## <a name='sample-solution'></a>Sample Solution Using Counterfit
+We encourage solutions that extend Microsoft Counterfit. A partial solution is included in Counterfit's [mlsecevasion/2021](https://github.com/Azure/counterfit/tree/mlsecevasion/2021) branch.  As outlined in the [Competition Terms of Service](https://mlsec.io/tos), the highest ranking submission from each track that 
+1. extends Counterfit
+2. automates a solution using Counterfit scripts, and 
+3. submits a GitHub pull request with the improvements after the competition concludes
 
-To get started, visit
+will receive a bonus prize, whether that submission is an existing winner or not.
+
+To get started using Counterfit for the competition, visit
 * [Getting Started](https://github.com/Azure/counterfit/blob/mlsecevasion/2021/docs/getting_started.md)
 
 ## <a name='resources'></a>Resources
