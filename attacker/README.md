@@ -6,6 +6,7 @@
 * [Tracks](#tracks)
     * [Anti-malware evasion track submission requirements](#anti-malware-evasion-track-submission-requirements)
     * [Anti-phishing evasion track submission requirements](#anti-phishing-evasion-track-submission-requirements)
+* [Sample Solution](#sample-solution)
 * [Resources](#resources)
 
 <!-- vscode-markdown-toc-config
@@ -40,7 +41,7 @@ A valid antiphishing evasion submission consists of the following:
 3. partial uploads are okay, and can be used to "update" or "complete" a solution
 4. uploads are rate limited; only infrequent uploads are allowed
 
-## Sample Solution
+## <a name='sample-solution'></a>Sample Solution
 We encourage solutions that extend Microsoft Counterfit. A partial solution is included in the [mlsecevasion/2021 branch](https://github.com/Azure/counterfit/tree/mlsecevasion/2021).
 
 To get started, visit
