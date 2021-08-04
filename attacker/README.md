@@ -40,9 +40,15 @@ A valid antiphishing evasion submission consists of the following:
 3. partial uploads are okay, and can be used to "update" or "complete" a solution
 4. uploads are rate limited; only infrequent uploads are allowed
 
+## Sample Solution
+We encourage solutions that extend Microsoft Counterfit. A partial solution is included in the [mlsecevasion/2021 branch](https://github.com/Azure/counterfit/tree/mlsecevasion/2021).
+
+To get started, visit
+* [Getting Started](https://github.com/Azure/counterfit/blob/mlsecevasion/2021/docs/getting_started.md)
+
 ## <a name='resources'></a>Resources
 For additional questions, the following resources are available:
 * [REST API Interface](docs/API.md) API documentation for submitting samples and uploading ZIP files
 * [Frequently Asked Questions](FAQ.md) markdown file with solutions to common problems
 * [Join the Slack channel](https://join.slack.com/t/evademalwareml/shared_invite/zt-9birv1qf-KJFEiyLLRVtrsNDuyA0clA) to interact with other contestants
-* [Submit an issue](https://github.com/Azure/2020-machine-learning-security-evasion-competition/issues) for issues relating to the sample code
+* [Submit an issue](https://github.com/Azure/2021-machine-learning-security-evasion-competition/issues) for issues relating to the sample code
