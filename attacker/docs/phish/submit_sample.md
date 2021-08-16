@@ -1,5 +1,5 @@
 # phish/submit_sample
-Submit a sample to one or more specific ML models to retrieve predicted score for each model.  A model is considered "evaded" when the predicted score is less than `0.5`.
+Submit a sample to one or more specific ML models to retrieve predicted score for each model.  A model is considered "evaded" when the predicted score is less than `0.1`.
 
 **METHOD**: `POST`
 
